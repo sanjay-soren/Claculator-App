@@ -1,0 +1,28 @@
+.btnNum{
+    height: 40px;
+    width: 40px;
+    margin: 5px;
+    border-radius: 50%;
+    cursor: pointer;
+    border: none;
+    font-size: medium;
+}
+.btnNum:hover{
+    background-color: rgb(95, 93, 93);
+    color: white;
+}
+.operator{
+    background-color: rgb(253, 99, 4);
+    height: 40px;
+    width: 40px;
+    margin: 5px;
+    border-radius: 50%;
+    cursor: pointer;
+    border: none;
+    color: white;
+    font-size: medium;
+}
+.operator:hover{
+    background-color: rgba(140, 116, 116, 0.509);
+    color: black;
+}
